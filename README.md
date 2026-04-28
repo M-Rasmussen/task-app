@@ -1,10 +1,10 @@
 # React + Flask Skeleton
 
-This is a minimal full-stack chat app with:
+This is a minimal full-stack Kanban board with:
 
 - A React frontend powered by Vite
 - A Flask backend with CORS enabled
-- A basic chat interface for sending and reading messages
+- A basic kanban interface for creating tasks and assigning a priority and moving them between each stage
 - A root-level setup and dev workflow for Windows PowerShell
 
 ## Project structure
